@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Contacto</string>
+    <string name="tveditar">Contacto.</string>
+    <string name="tvPerfil">Confirmar Datos</string>
+    <string name="etNombre">Nombre Completo:</string>
+    <string name="etFecha">Fecha de Nacimiento:</string>
+    <string name="etTelefono">Telefono:</string>
+    <string name="etEmail">Email:</string>
+    <string name="etDescripcion">Descripción:</string>
+    <string name="BotonGuadar">Guardar</string>
+    <string name="BotonEditar">Editar</string>
+    <string name="botonnew">Añadir</string>
+    <string name="crear">crear contacto</string>
+
+
+</resources>
